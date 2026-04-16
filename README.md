@@ -103,5 +103,3 @@ Node.js permite:
 O BankFlow transforma um processo manual e sujeito a erros em um fluxo automatizado, organizado e escalável, trazendo mais controle e eficiência para a operação financeira.
 
 ---
-
-## Estrutura do Projeto
