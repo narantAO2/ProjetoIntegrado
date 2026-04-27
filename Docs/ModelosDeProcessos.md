@@ -21,8 +21,6 @@ Descreva como o projeto será executado:
 
 - **Integrante 1 — Responsabilidade:** Gabriel Naranti — backend em Node.js, modelagem de dados, regras de negócio, automações e integração com Asaas.
 - **Integrante 2 — Responsabilidade:** João Miguel Firmino — frontend em React, telas de cadastro, dashboard e experiência do usuário.
-- **Integrante 3 — Responsabilidade:** 
-- **Integrante 4 — Responsabilidade:** 
 
 ***
 
@@ -71,4 +69,4 @@ Liste as funcionalidades:
 
 ## 📌 Considerações
 
-O planejamento do BankFlow foi estruturado para permitir entregas incrementais, foco nas funcionalidades mais críticas e adaptação contínua conforme o feedback do negócio.[2][1] Além disso, a integração com o Asaas pode usar webhooks para manter a aplicação sincronizada com eventos de cobrança, o que fortalece a proposta de automação do projeto.
+O planejamento do BankFlow foi estruturado para permitir entregas incrementais, foco nas funcionalidades mais críticas e adaptação contínua conforme o feedback do negócio. Além disso, a integração com o Asaas pode usar webhooks para manter a aplicação sincronizada com eventos de cobrança, o que fortalece a proposta de automação do projeto.
