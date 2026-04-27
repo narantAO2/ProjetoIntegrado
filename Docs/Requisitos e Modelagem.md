@@ -41,7 +41,7 @@ O usuário seleciona um banqueiro ativo, o sistema calcula o valor devido e envi
 | Pagamento | id, valor, data\_pagamento, método, cobrança\_id |
 
 
-<img width="1500" height="1800" alt="image" src="https://github.com/user-attachments/assets/58b600a9-b0d3-4f66-b979-f371fd7aa3d0" />
+<img width="1500" height="1920" alt="image" src="https://github.com/user-attachments/assets/58b600a9-b0d3-4f66-b979-f371fd7aa3d0" />
 
 
 **Regras de Negócio**
