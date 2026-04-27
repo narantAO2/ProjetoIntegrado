@@ -3,7 +3,7 @@
 ## Identificação da Equipe
 - **Nome do Projeto:** BankFlow  
 - **Integrantes:** Gabriel Naranti, João Miguel Firmino  
-- **Repositório:** https://github.com/narantAO2/ProjetoIntegrado  
+- **Repositório:** https://github.com/narantAO2/BankFlow  
 
 ---
 
