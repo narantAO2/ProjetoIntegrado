@@ -3,7 +3,7 @@
 ## 🧠 Scrum
 
 ### Justificativa
-O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento incremental, validação frequente com a área financeira e integração entre backend, frontend e serviços externos. Como a Sprint Review serve para inspecionar o incremento entregue e adaptar o Product Backlog com base no feedback dos stakeholders, esse modelo ajuda a alinhar a solução ao processo real de cobrança da empresa.
+O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento incremental, validação frequente com a área financeira e integração entre backend, e serviços externos. Como a Sprint Review serve para inspecionar o incremento entregue e adaptar o Product Backlog com base no feedback dos stakeholders, esse modelo ajuda a alinhar a solução ao processo real de cobrança da empresa.
 
 ***
 
@@ -19,8 +19,8 @@ Descreva como o projeto será executado:
 
 ## 👥 Papéis da Equipe
 
-- **Integrante 1 — Responsabilidade:** Gabriel Naranti — backend em Node.js, modelagem de dados, regras de negócio, automações e integração com Asaas.
-- **Integrante 2 — Responsabilidade:** João Miguel Firmino — frontend em React, telas de cadastro, dashboard e experiência do usuário.
+- **Integrante 1 — Responsabilidade:** Gabriel Naranti — backend em Node.js, modelagem de dados, telas de cadastro e automações.
+- **Integrante 2 — Responsabilidade:** João Miguel Firmino — , regras de negócio, , dashboard, experiência do usuário e integração com Asaas.
 
 ***
 
@@ -53,7 +53,7 @@ Liste as funcionalidades:
 | 5 | Integração com a API do Asaas para geração de cobranças |
 | 6 | Implementação de webhooks para acompanhamento de pagamentos |
 | 7 | Regra de bloqueio por inadimplência e ajustes de negócio |
-| 8 | Desenvolvimento do frontend e dashboard |
+| 8 | Desenvolvimento das telas e dashboard |
 | 9 | Testes integrados e validação com usuários |
 | 10 | Correções finais e preparação da entrega |
 
@@ -63,7 +63,7 @@ Liste as funcionalidades:
 
 - **GitHub:** versionamento de código, armazenamento do projeto e documentação em Markdown.
 - **Trello / Jira:** organização do backlog, acompanhamento das sprints e controle das tarefas.
-- **Outros:** Node.js, React, Postman, API do Asaas.
+- **Outros:** Node.js, Postman, API do Asaas.
 
 ***
 
