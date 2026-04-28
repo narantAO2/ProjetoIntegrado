@@ -20,7 +20,7 @@ Descreva como o projeto será executado:
 ## 👥 Papéis da Equipe
 
 - **Integrante 1 — Responsabilidade:** Gabriel Naranti — backend em Node.js, modelagem de dados, telas de cadastro e automações.
-- **Integrante 2 — Responsabilidade:** João Miguel Firmino — , regras de negócio, , dashboard, experiência do usuário e integração com Asaas.
+- **Integrante 2 — Responsabilidade:** João Miguel Firmino — regras de negócio, , dashboard, experiência do usuário e integração com Asaas.
 
 ***
 
