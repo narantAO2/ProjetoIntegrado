@@ -3,7 +3,7 @@
 ## 🧠 Scrum
 
 ### Justificativa
-O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento incremental, validação frequente com a área financeira e integração entre backend, frontend e serviços externos.[1] Como a Sprint Review serve para inspecionar o incremento entregue e adaptar o Product Backlog com base no feedback dos stakeholders, esse modelo ajuda a alinhar a solução ao processo real de cobrança da empresa.
+O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento incremental, validação frequente com a área financeira e integração entre backend, frontend e serviços externos. Como a Sprint Review serve para inspecionar o incremento entregue e adaptar o Product Backlog com base no feedback dos stakeholders, esse modelo ajuda a alinhar a solução ao processo real de cobrança da empresa.
 
 ***
 
